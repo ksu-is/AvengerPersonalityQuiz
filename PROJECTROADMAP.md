@@ -1,12 +1,14 @@
 # Sprint 1
-- [ ] Create repository
-- [ ] Make READ.me file with commits
-- [ ] Explore existing code
-- [ ] Run existing code to ensure it works
-- [ ] Explain findings of existing code
+- [x] Create repository
+- [x] Make READ.me file with commits
+- [x] Explore existing code
+- [x] Run existing code to ensure it works
+- [x] Explain findings of existing code
+- [ ] Finish Sprint 1 in D2L
 
 # Sprint 2
 - [ ] 6 code commits - with comment on what was done
+- [ ] Finish Sprint 2 in D2L
 
 # Sprint 3
 - [ ] Start on powerpoint
@@ -14,6 +16,7 @@
 - [ ] Title of project
 - [ ] Tag line of main concept
 - [ ] 1-2 screenshots or pictures
+- [ ] Finish Sprint 3 in D2L
 
 # Findings
 Findings from the existing code that I found was a point system that works that I would like to modify for my project. Each answer choice has a point (or points) attached to it that adds up in the end to get a result.
