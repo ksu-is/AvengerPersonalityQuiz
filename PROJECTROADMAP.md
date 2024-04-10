@@ -4,7 +4,7 @@
 - [x] Explore existing code
 - [x] Run existing code to ensure it works
 - [x] Explain findings of existing code
-- [x] Finish Sprint 1 in D2L
+- [ ] Finish Sprint 1 in D2L
 
 # Sprint 2
 - [ ] 6 code commits - with comment on what was done
