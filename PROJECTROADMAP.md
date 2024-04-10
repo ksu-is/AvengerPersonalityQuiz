@@ -4,11 +4,11 @@
 - [x] Explore existing code
 - [x] Run existing code to ensure it works
 - [x] Explain findings of existing code
-- [ ] Finish Sprint 1 in D2L
+- [x] Finish Sprint 1 in D2L
 
 # Sprint 2
 - [ ] 6 code commits - with comment on what was done
-- [ ] Incorporate code in this repository
+- [x] Incorporate code in this repository
 - [ ] Start making changes to existing code
 - [ ] Update Readme file with more info on project (descriptions)
 - [ ] Finalize questions to be used in the quiz
