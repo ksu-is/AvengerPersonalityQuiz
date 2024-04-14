@@ -14,7 +14,7 @@ Features
   - Thor
   - Black Widow
   - Spider-man
-- There are 7 questions with 5 answer choices each.
+- There are 5 questions with 5 answer choices each.
 - The answer choices are evaluated by a point system, which determines the correct result.
 
 General Overview
