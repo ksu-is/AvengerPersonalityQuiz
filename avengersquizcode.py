@@ -1,5 +1,5 @@
-print("Welcome to 'Which Avenger are you?' quiz game!")
-print("Please answer the following questions:")
+print("Welcome to the Avengers Personality Quiz! In this quiz you will be asked various questions in order to find out which Avenger from the Marvel Cinematic Universe you are most like.")
+
 
 score = 0
 
