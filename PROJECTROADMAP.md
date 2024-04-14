@@ -11,10 +11,10 @@
 - [x] Incorporate code in this repository
 - [x] Start making changes to existing code
 - [x] Update Readme file with more info on project (descriptions)
-- [ ] Finalize questions to be used in the quiz
 - [ ] Finish Sprint 2 in D2L
 
 # Sprint 3
+- [ ] Finalize questions to be used in the quiz
 - [ ] Start on powerpoint
 - [ ] List of members
 - [ ] Title of project
