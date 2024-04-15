@@ -25,8 +25,8 @@ Other Information
 -
 Questions are gathered from Marvel's website and other quiz resources like Buzzfeed. Some questions are also modified from the original creator of the code in this repository.
 
+As a reference, here is some source code that I used to create my final code. https://github.com/Filla0/Which-Avenger-are-you
+Here is another source I used, specifically for some formatting issues. https://youtu.be/zehwgTB0vV8?si=mZeyzvfjcpWH1BmT
 
 
-
-
-Check this file for any new updates coming soon!
+Check this file for any updates coming soon!
