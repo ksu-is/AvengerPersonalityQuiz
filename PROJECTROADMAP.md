@@ -14,7 +14,8 @@
 - [ ] Finish Sprint 2 in D2L
 
 # Sprint 3
-- [ ] Finalize questions to be used in the quiz
+- [x] Finalize questions to be used in the quiz
+- [ ] Finalize code
 - [ ] Start on powerpoint
 - [ ] List of members
 - [ ] Title of project
