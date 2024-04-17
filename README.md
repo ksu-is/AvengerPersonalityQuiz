@@ -1,5 +1,5 @@
 # Avengers Personality Quiz
-This interactive personality quiz allows users to answer a few questions and obtain a result that will determine what Avenger they are from the Marvel Cinematic Universe. The application will not only provide the user with a result currated to their personality and habits but also provide a quick and fun quiz that can be engaging for many users.
+This interactive personality quiz allows users to answer a few questions and obtain a result that will determine what Avenger they are from the Marvel Cinematic Universe. The application will not only provide the user with a result currated to their personality and habits but also provide a quick and fun quiz to do when the user has time.
 
 Marvel Cinematic Universe
 -
@@ -25,8 +25,8 @@ Other Information
 -
 Questions are gathered from Marvel's website and other quiz resources like Buzzfeed. Some questions are also modified from the original creator of the code in this repository.
 
-As a reference, here is some source code that I used to create my final code. https://github.com/Filla0/Which-Avenger-are-you
-Here is another source I used, specifically for some formatting issues. https://youtu.be/zehwgTB0vV8?si=mZeyzvfjcpWH1BmT
+- Here is some source code that I used to create my final code. https://github.com/Filla0/Which-Avenger-are-you
+- Here is another source I used, specifically for some formatting issues. https://youtu.be/zehwgTB0vV8?si=mZeyzvfjcpWH1BmT
 
 
 Check this file for any updates coming soon!
