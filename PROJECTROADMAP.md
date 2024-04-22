@@ -11,7 +11,7 @@
 - [x] Incorporate code in this repository
 - [x] Start making changes to existing code
 - [x] Update Readme file with more info on project (descriptions)
-- [ ] Finish Sprint 2 in D2L
+- [x] Finish Sprint 2 in D2L
 
 # Sprint 3
 - [x] Finalize questions to be used in the quiz
