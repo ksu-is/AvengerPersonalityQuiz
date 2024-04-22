@@ -7,13 +7,12 @@ questions = ("Others would describe you as ______?: ",
              "What is your favorite movie/book genre?: ",
              "What superpower would you want to have?: ")
 
-options = (("A. ", "B. ", "C. ", "D. ", "E. "),
-           ("A. ", "B. ", "C. ", "D. ", "E. "),
-           ("A. ", "B. ", "C. ", "D. ", "E. "),
-           ("A. ", "B. ", "C. ", "D. ", "E. "),
-           ("A. ", "B. ", "C. ", "D. ", "E. "))
+options = (("A. Mysterious", "B. Funny", "C. Carefree", "D. Arrogant", "E. Loyal"),
+           ("A. Alone or with others", "B. By following others", "C. As the leader of a group", "D. Alone", "E. With a group"),
+           ("A. Family", "B. Peace", "C. Order", "D. Love", "E. Justice"),
+           ("A. Thriller", "B. Comedy", "C. Action", "D. Fantasy", "E. Drama"),
+           ("A. Invisibility", "B. Super Speed", "C. Flight", "D. Telekinesis", "E. Strength"))
 
-score = 0
 A = 0
 B = 0
 C = 0
@@ -51,13 +50,17 @@ print("-----------------------------")
 print("-----------RESULTS-----------")
 print("-----------------------------")
 
-if score >= 25:
-  print("You are
-elif score >= 20:
-  print("You are
-elif score >= 15:
-  print("You are
-elif score >= 10:
-  print("You are
-elif score >= 5:
-  print("You are
+if totalscore >= 25:
+  print("You are Captain America!")
+elif totalscore >= 20:
+  print("You are Thor!")
+elif totalscore >= 15:
+  print("You are Iron Man!")
+elif totalscore >= 10:
+  print("You are Spider-Man!")
+elif totalscore >= 5:
+  print("You are Black Widow!")
+
+
+print("-----------------------------")
+print("Thanks for playing!")
