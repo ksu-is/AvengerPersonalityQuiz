@@ -16,7 +16,7 @@
 # Sprint 3
 - [x] Finalize questions to be used in the quiz
 - [ ] Finalize code
-- [ ] Start on powerpoint
+- [x] Start on powerpoint
 - [ ] List of members
 - [ ] Title of project
 - [ ] Tag line of main concept
