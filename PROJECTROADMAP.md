@@ -15,13 +15,13 @@
 
 # Sprint 3
 - [x] Finalize questions to be used in the quiz
-- [ ] Finalize code
+- [x] Finalize code
 - [x] Start on powerpoint
-- [ ] List of members
-- [ ] Title of project
-- [ ] Tag line of main concept
-- [ ] 1-2 screenshots or pictures
-- [ ] Finish Sprint 3 in D2L
+- [x] List of members
+- [x] Title of project
+- [x] Tag line of main concept
+- [x] 1-2 screenshots or pictures
+- [x] Finish Sprint 3 in D2L
 
 # Findings
 Findings from the existing code that I found was a point system that works that I would like to modify for my project. Each answer choice has a point (or points) attached to it that adds up in the end to get a result.
